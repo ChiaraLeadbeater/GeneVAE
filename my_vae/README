@@ -1,0 +1,2 @@
+MyTensorBoard is basically a copy of the TensorBoard class in keras callbacks.py.
+It is basically a copy of TensorBoard with a one line modification to prevent an assertion error that occurs because of the way that VAEs are constructed in keras.
